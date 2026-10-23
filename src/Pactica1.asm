@@ -1,4 +1,4 @@
-INCLUDE Irvine32.inc ciclo hola mundo
+INCLUDE Irvine32.inc 
 
 .data
 mensaje BYTE "Hola,Mundo!",0
