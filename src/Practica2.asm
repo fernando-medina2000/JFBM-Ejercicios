@@ -1,4 +1,5 @@
-INCLUDE Irvine32.inc 
+INCLUDE Irvine32.inc ciclo hola mundo
+
 .data
 
 .code
