@@ -1,11 +1,16 @@
-; ########################################################################################
+
 ; Materia: Lenguajes de Interfaz
+
 ; Alumno: Anzures Medina Jose Fernando
+
 ; Docente: Dr. José Luis Medina Jiménez
+
 ; Práctica: 2. Captura y desplegado de mensajes
+
 ; Descripción: Lectura de una cadena de texto desde consola y despliegue de la misma.
-;Unidad: 2
-; ########################################################################################
+
+; Unidad: 2
+
 
 INCLUDE Irvine32.inc
 

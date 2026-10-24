@@ -1,11 +1,16 @@
-;###########################################################################################
+
 ; Materia: Lenguajes de Interfaz
+
 ; Alumno: Anzures Medina Jose Fernando
+
 ; Docente: Dr. José Luis Medina Jiménez
+
 ; Práctica: 1. Ciclos numéricos
+
 ; Descripción: Implementación de bucles utilizando el registro ECX y la instrucción LOOP.
-;Unidad: 2
-;#################################################################################################
+
+; Unidad: 2
+
 
 
 INCLUDE Irvine32.inc
