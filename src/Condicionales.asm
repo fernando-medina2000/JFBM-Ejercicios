@@ -11,6 +11,8 @@
 
 ; Unidad: 2
 
+; Horario : 8 - 9
+
 
 ;CICLOS CONDICIONAL INICIO (WHILE)
 INCLUDE Irvine32.inc

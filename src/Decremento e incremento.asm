@@ -11,6 +11,8 @@
 
 ; Unidad: 2
 
+; Horario : 8 - 9
+
 
 ;CONTROL DE ACCESO DEC(DECREMENTO)
 INCLUDE Irvine32.inc
